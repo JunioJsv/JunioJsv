@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeovane Aka JunioJsv👋
 
-Hello, I am a developer with extensive experience in backend and mobile applications, I aim to use booming technologies together with consolidated concepts
+Hello, I am a developer with extensive experience in mobile applications, I aim to use booming technologies together with consolidated concepts
 
 [![JunioJsv github stats](https://github-readme-stats.vercel.app/api?username=JunioJsv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
