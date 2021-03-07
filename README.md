@@ -1,22 +1,18 @@
-### Hi there, I'm Jeovane Aka JunioJsv👋
+<img src="https://github.com/JunioJsv/JunioJsv/blob/master/bg.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
-Hello, I am a developer with extensive experience in mobile applications, I aim to use booming technologies together with consolidated concepts
+<p align="left">
+  Desenvolvedor Júnior com quase um ano de experiência profissional, entusiasta no desenvolvimento de aplicações mobile e back-end.
+</p>
 
-[![JunioJsv github stats](https://github-readme-stats.vercel.app/api?username=JunioJsv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  👏 Habilidades: <strong> Kotlin/Java, Android Nativo, MySQL, Spring, Flutter/Dart, TypeScript/JavaScript, Git. </strong>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunioJsv&layout=compact&hide=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**JunioJsv/JunioJsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="mailto:juniojsv@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeovane-santos-a228b01b0">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
