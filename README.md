@@ -1,7 +1,7 @@
 <img src="https://github.com/JunioJsv/JunioJsv/blob/master/bg.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Desenvolvedor Júnior com quase um ano de experiência profissional, entusiasta no desenvolvimento de aplicações mobile e back-end.
+  Desenvolvedor de software competente e responsável com quase um ano de experiência profissional, entusiasta autodidata no desenvolvimento de aplicações mobile e back-end.
 </p>
 
 <p align="center">
