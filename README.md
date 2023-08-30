@@ -1,7 +1,7 @@
 <img src="https://github.com/JunioJsv/JunioJsv/blob/master/bg.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Self-taught developer with approximately two years of professional experience, focused on mobile and backend development. Initially, during my career, I had the opportunity to collaborate on projects with very diverse implementations.
+  Self-taught developer with years of professional experience, focused on mobile and backend development. Initially, during my career, I had the opportunity to collaborate on projects with very diverse implementations.
 </p>
 
 <p align="center">
