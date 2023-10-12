@@ -7,7 +7,7 @@ I have a solid knowledge of technologies such as Kotlin, Java, Android SDK, Flut
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeovane-santos-a228b01b0">
+  <a href="https://www.linkedin.com/in/juniojsv">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
