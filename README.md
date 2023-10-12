@@ -1,21 +1,9 @@
 <img src="https://github.com/JunioJsv/JunioJsv/blob/master/bg.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Self-taught developer with years of professional experience, focused on mobile and backend development. Initially, during my career, I had the opportunity to collaborate on projects with very diverse implementations.
-</p>
+  I am a self-taught developer with extensive professional experience. I am well-versed in full-stack development, primarily within the realm of mobile applications and back-end APIs. Throughout my career, I have had the opportunity to work on projects with a wide range of implementations, gaining significant experience in software development.
 
-<p align="center">
-  👏 Skills 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-experient-blue?style=flat-square&logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-experient-green?style=flat-square&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-experient-orange?style=flat-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-experient-red?style=flat-square&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Dart-experient-blue?style=flat-square&logo=dart&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-experient-blue?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-learning-brightgreen?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-learning-yellow?style=flat-square&logo=typescript&logoColor=white">
-  </p>
+I have a solid knowledge of technologies such as Kotlin, Java, Android SDK, Flutter, MySQL, Spring, Node.js, C/C++, and Dart. I am committed to continuous improvement and acquiring new skills, a commitment that drives me to constantly evolve as a developer.
 </p>
 
 <p align="center">
