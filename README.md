@@ -6,7 +6,7 @@
 I have a solid knowledge of technologies such as Kotlin, Java, Android SDK, Flutter, MySQL, Spring, Node.js, C/C++, and Dart. I am committed to continuous improvement and acquiring new skills, a commitment that drives me to constantly evolve as a developer.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/juniojsv">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
