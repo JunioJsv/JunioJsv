@@ -1,9 +1,10 @@
 <img src="https://github.com/JunioJsv/JunioJsv/blob/master/bg.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  I am a self-taught developer with extensive professional experience. I am well-versed in full-stack development, primarily within the realm of mobile applications and back-end APIs. Throughout my career, I have had the opportunity to work on projects with a wide range of implementations, gaining significant experience in software development.
-
-I have a solid knowledge of technologies such as Kotlin, Java, Android SDK, Flutter, MySQL, Spring, Node.js, C/C++, and Dart. I am committed to continuous improvement and acquiring new skills, a commitment that drives me to constantly evolve as a developer.
+Mid-Level Mobile Developer with 4+ years of experience in Flutter, Kotlin, and backend development using Spring. I have worked on projects with over 500,000 downloads, contributed to rewriting legacy apps, and served as a technical reference within the team, helping colleagues with bugs and technical questions. I have experience with native integrations, geolocation, Firebase, automated testing, CI/CD, and agile methodologies.
+  
+Technical Skills:
+Flutter, Kotlin, Java, TypeScript, Spring, MySQL, Dart, C/C++, Android SDK, AWS, RESTful APIs, Firebase, CI/CD, Git, Agile (Scrum), Unit Testing, Integration Testing
 </p>
 
 <p align="left">
