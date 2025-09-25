@@ -7,12 +7,12 @@ Throughout my career, I have worked with multidisciplinary teams from architectu
 
 I have experience with cross-platform software, geolocation, graphical rendering with OpenGL, automated testing, CI/CD, and Agile methodologies.
 
-Although my specialty is the mobile ecosystem, I also have experience with other stacks, such as C++/Qt/OpenGL and backend using the Spring and Laravel frameworks. This reinforces my agnostic view of languages and frameworks in the development cycle, enabling me to collaborate on complete solutions, from conception to final product.
+Although my specialty is the mobile ecosystem, I also have experience with other stacks, such as C++/Qt/OpenGL and backend using the Spring Boot and Laravel frameworks. This reinforces my agnostic view of languages and frameworks in the development cycle, enabling me to collaborate on complete solutions, from conception to final product.
 
 I am seeking challenges where I can lead high-impact deliveries and constantly evolve as a software developer.
 
 Technical Skills:
-Flutter, Kotlin, Dart, Java, C/C++, TypeScript, MySQL, Android SDK, OpenGL, OpenGLES, AWS, Spring, RESTful APIs, Firebase, CI/CD, Git, Agile (Scrum), SOLID, Unit Tests, Integration Tests, E2E Tests
+Flutter, Kotlin, Dart, Java, C/C++, TypeScript, MySQL, Android SDK, OpenGL, OpenGLES, AWS, Spring Boot, RESTful APIs, Firebase, CI/CD, Git, Agile (Scrum), SOLID, Unit Tests, Integration Tests, E2E Tests
 </p>
 
 <p align="left">
