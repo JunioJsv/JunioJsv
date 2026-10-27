@@ -1,15 +1,17 @@
 <img src="https://github.com/JunioJsv/JunioJsv/blob/master/bg.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Software Developer with over 4 years of experience in Flutter, Kotlin, and Android SDK.
+Software Developer with over 5 years of experience in mobile development, with a strong background in Flutter and Android (Kotlin), focused on building and evolving robust applications throughout the entire product lifecycle.
 
-Throughout my career, I have worked with multidisciplinary teams from architectural planning to the production launch of projects that exceeded 500,000 downloads. I participated in the migration of legacy applications to Flutter and served as a technical reference within the team, assisting colleagues with bugs and questions.
+Throughout my career, I have worked on products with over 500,000 downloads, including the complete rewrite of a React Native application in Flutter, where I took ownership of architectural decisions that resulted in measurable improvements in performance, stability, and long-term maintainability.
 
-I have experience with cross-platform software, geolocation, graphical rendering with OpenGL, automated testing, CI/CD, and Agile methodologies.
+I have solid experience with offline-first applications, geolocation, native integrations, automated testing, and CI/CD pipelines, always considering both technical impact and the value delivered to users and the business.
 
-Although my specialty is the mobile ecosystem, I also have experience with other stacks, such as C++/Qt/OpenGL and backend using the Spring Boot and Laravel frameworks. This reinforces my agnostic view of languages and frameworks in the development cycle, enabling me to collaborate on complete solutions, from conception to final product.
+I currently work in a large-scale software environment, dealing with mature codebases, complex systems, and ongoing challenges related to evolution and performance. This requires systems thinking, technical ownership, and making sustainable long-term engineering decisions.
 
-I am seeking challenges where I can lead high-impact deliveries and constantly evolve as a software developer.
+Beyond my professional work, I develop and maintain open-source projects with international adoption, exploring mobile development, native integrations, and automation as a way to deepen my technical expertise and turn real-world problems into practical solutions.
+
+My goal is to contribute to well-designed, sustainable, and reliable software, working as an engineer who goes beyond implementation by thinking about the product, understanding trade-offs, and taking ownership of technical decisions.
 
 Technical Skills:
 Flutter, Kotlin, Dart, Java, C/C++, TypeScript, MySQL, Android SDK, OpenGL, OpenGLES, AWS, Spring Boot, RESTful APIs, Firebase, CI/CD, Git, Agile (Scrum), SOLID, Unit Tests, Integration Tests, E2E Tests
